@@ -6,8 +6,9 @@ Responsive architecture website design for fictional architecture firm. Code alo
 Tech used:
 - HTML, CSS
 - GSAP (animation library)
-- Three.JS (image displacement)
 
 
 
-![alt text](/img/screely-1638703335061.png)
+
+
+![Architecture Design](https://user-images.githubusercontent.com/60757963/145931033-1f9a04d8-4d25-475c-926f-484ddbe68be3.png)
